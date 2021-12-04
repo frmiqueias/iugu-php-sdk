@@ -1,5 +1,5 @@
 {
-	"name": "bubbstore/iugu-php-sdk",
+	"name": "frmiqueias/iugu-php-sdk",
 	"type": "library",
 	"description": "Biblioteca não oficial de integração com a API da Iugu",
 	"keywords": [
